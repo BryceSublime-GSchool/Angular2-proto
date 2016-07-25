@@ -2,11 +2,11 @@
 
 <pre>mkdir Angular2-Prototype && cd Angular2-Prototype</pre>
 
-git clone git@github.com:BryceSublime-GSchool/Angular2-proto.git
+<pre>git clone git@github.com:BryceSublime-GSchool/Angular2-proto.git</pre>
 
-cd Angular2-proto
+<pre>cd Angular2-proto</pre>
 
-npm install
+<pre>npm install</pre>
 
-npm run lite
+<pre>npm run lite</pre>
 
